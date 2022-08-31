@@ -11,7 +11,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #04e234;
 }
 
 .purple {
@@ -97,7 +97,7 @@ button:focus {
 
 .navbar-toggler span {
   display: block !important;
-  background-color: #be50f4 !important;
+  background-color: #00ff88 !important;
   height: 4px !important;
   width: 27px !important;
   margin-top: 5px !important;
@@ -144,7 +144,7 @@ button:focus {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
-    background-color: #181a27 !important;
+    background-color: #00ff88 !important;
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -195,7 +195,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background: #00ff15;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -287,12 +287,12 @@ button:focus {
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #51ff00 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #00ff37 !important;
 }
 
 @media (max-width: 767px) {
@@ -372,7 +372,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #68187a;
+  background: #00ff88;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -380,13 +380,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
+  box-shadow: 0 0 15px #00ff88;
 }
 
 .home-social-icons:hover {
   color: #87209e;
-  box-shadow: 0 0 5px #87209e;
-  text-shadow: 0 0 2px #87209e;
+  box-shadow: 0 0 5px #00ff88;
+  text-shadow: 0 0 2px #00ff88;
 }
 
 .social-icons {
@@ -525,8 +525,8 @@ button:focus {
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #6d20c5d7 !important;
-  border-color: #6d20c5d7 !important;
+  background-color: #00ff88 !important;
+  border-color: #00ff88 !important;
 }
 .btn:focus {
   outline: none !important;
@@ -556,7 +556,7 @@ button:focus {
   margin: 15px !important;
   padding: 10px !important;
   opacity: 0.93 !important;
-  border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
+  border: 1.7px solid #00ff88!important;
   vertical-align: middle !important;
   text-align: center !important;
   border-radius: 5px !important;
@@ -646,14 +646,14 @@ button:focus {
 .resume .resume-item {
   padding: 0 0 10px 25px;
   margin-top: -2px;
-  border-left: 2px solid #8a49a8;
+  border-left: 2px solid #00ff88;
   position: relative;
 }
 
 .resume .resume-item .resume-title {
   line-height: 18px;
   font-size: 0.9em;
-  background: #5234795d;
+  background: #00ff88;
   padding: 8px 15px;
   display: inline-block;
   font-weight: 600;
@@ -736,7 +736,7 @@ button:focus {
 
 .fork-btn-inner:hover {
   transform: translateY(-2px) !important;
-  background-color: #a24dd386 !important;
+  background-color: #00ff88 !important;
   border-color: #a24dd386 !important;
 }
 .fork-btn-inner::after {
