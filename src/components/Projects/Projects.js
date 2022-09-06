@@ -12,7 +12,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My  <strong className="purple">certificates </strong>
+          My  <strong className="purple">Certificates </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are the certifications 
